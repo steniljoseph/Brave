@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 100px;
+    background-color: rgb(234, 239, 240);
+}
+
+.logo {
+    width: 100%;
+}
+
+.video{
+    width: 100%;
+}
+
+.logoonly{
+    margin: 50px 50px 70px ;
+}
+
+.upto6{
+    text-align: center;
+    font-size: 46px;
+}
+
+.btn{
+    background-color: orangered;
+    color: white;
+    padding: 12px 90px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-top: 30px; 
+    border: none;
+
+}
+
+.btn:hover{
+    color: blue;
+    background-color: white;
+}
+
+.join{
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.phone{
+    margin-left: 160px;
+    margin-top: 130px;
+}
+
+.bravevideo{
+    padding-top: 90px;
+    padding-left: 10px;
+}
+
+.para{
+    margin-top: 270px;
+    font-size: 32px;
+    color: rgb(38, 30, 154);
+}
+
+.para2{
+    font-size: 22px;
+    color: rgb(38, 30, 154);
+}
+
+.para3{
+    font-size: 16px;
+    color: rgb(93, 107, 143);}
+
+.btn2{
+    background-color: orangered;
+    color: white;
+    padding: 12px 90px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-top: 30px; 
+    border: none;
+    
+}
+    
+.btn2:hover{
+    
+    background-color:rgb(52, 52, 170);
+}
+
+.linear{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(#db4d19, #8d1a7c);}
+
+.imgform{
+    width: 50%;
+    height: 470px;
+}
+
+.formclass{
+    padding-left: 175px;
+    padding-top: 45px;
+}
+
+.importbook{
+    text-align: center;
+}
+
+.importclass{
+    color: white;
+    padding-top: 125px;
+    padding-left: 160px;
+    font-size: 32px;
+}
+
+.threediv{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.three{
+    width: 33%;
+    height: 340px;
+    text-align: center;
+    padding-top: 70px;
+
+}
+
+.threepara{
+    color: rgb(93, 107, 143);   
+    font-size: 28px;
+}
+
+.twodiv{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.hrtag{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.two{
+    width: 40%;
+    height: 280px;
+    text-align: end;
+    padding-top: 80px;
+}
+
+.two2{
+    font-size: 20px;
+    padding-top: 140px;
+    padding-left: 50px;
+    color: rgb(93, 107, 143);
+}
+
+.footer{
+    padding: 32px;
+    color: #a79c9c;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer ul li{
+    display: inline;
+    padding: 0 16px;
+    font-size: small;
+    font-weight: 600;
+}
