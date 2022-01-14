@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 291 199">
+  <defs>
+    <linearGradient id="rewards-b" x1="5.709%" x2="98.47%" y1="-3.224%" y2="108.103%">
+      <stop offset="0%" stop-color="#F0F0F0"/>
+      <stop offset="100%" stop-color="#F2EDFD"/>
+    </linearGradient>
+    <path id="rewards-a" d="M141.29562,167.195767 C219.331037,167.195767 282.591241,129.76772 282.591241,83.5978836 C282.591241,65.8407269 263.470575,59.8143733 247.513905,46.2754033 C221.982129,24.6121145 189.318214,0 141.29562,0 C95.3816825,0 64.6525936,22.2708385 38.8441568,42.3417852 C20.7885253,56.3834577 0,64.5931359 0,83.5978836 C0,107.233763 35.4977231,119.420007 62.1506509,134.625163 C87.5609993,149.121444 103.209137,167.195767 141.29562,167.195767 Z"/>
+    <linearGradient id="rewards-f" x1="0%" y1="50.706%" y2="50.706%">
+      <stop offset="0%" stop-color="#FB542B"/>
+      <stop offset="100%" stop-color="#E3380E"/>
+    </linearGradient>
+    <rect id="rewards-e" width="45.511" height="18.455" x="-5.175" y="88.598" rx="4.233"/>
+    <filter id="rewards-d" width="183.5%" height="305.9%" x="-41.7%" y="-75.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <path id="rewards-h" d="M141.29562,167.195767 C219.331037,167.195767 282.591241,129.76772 282.591241,83.5978836 C282.591241,65.8407269 263.470575,59.8143733 247.513905,46.2754033 C221.982129,24.6121145 189.318214,0 141.29562,0 C95.3816825,0 64.6525936,22.2708385 38.8441568,42.3417852 C20.7885253,56.3834577 0,64.5931359 0,83.5978836 C0,107.233763 35.4977231,119.420007 62.1506509,134.625163 C87.5609993,149.121444 103.209137,167.195767 141.29562,167.195767 Z"/>
+    <filter id="rewards-g" width="101.8%" height="103%" x="-.9%" y="-1.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="2.5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.86633716   0 0 0 0 0.86633716   0 0 0 0 0.86633716  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="rewards-k" x1="35.192%" x2="146.327%" y1="0%" y2="222.965%">
+      <stop offset="0%" stop-color="#392DD1"/>
+      <stop offset="100%" stop-color="#FF4343"/>
+    </linearGradient>
+    <rect id="rewards-j" width="85.73" height="33.862" x="162.993" y="148.614" rx="4.233"/>
+    <filter id="rewards-i" width="144.3%" height="212.2%" x="-22.2%" y="-41.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <ellipse id="rewards-m" cx="43.394" cy="17.397" rx="8.467" ry="8.466"/>
+    <filter id="rewards-l" width="324.4%" height="324.4%" x="-112.2%" y="-82.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <ellipse id="rewards-o" cx="259.307" cy="54.434" rx="10.584" ry="10.582"/>
+    <filter id="rewards-n" width="279.5%" height="279.6%" x="-89.8%" y="-66.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <ellipse id="rewards-q" cx="34.927" cy="157.079" rx="10.584" ry="10.582"/>
+    <filter id="rewards-p" width="279.5%" height="279.6%" x="-89.8%" y="-66.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="rewards-s" width="150.168" height="134.032" rx="4.072"/>
+    <filter id="rewards-r" width="125.3%" height="128.4%" x="-12.7%" y="-10.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941176   0 0 0 0 0.180392157   0 0 0 0 0.250980392  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="rewards-t" width="347.1%" height="347.1%" x="-123.5%" y="-108.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <circle id="rewards-v" cx="17" cy="17" r="17"/>
+    <filter id="rewards-u" width="211.8%" height="211.8%" x="-55.9%" y="-41.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <ellipse id="rewards-x" cx="112.818" cy="13.815" rx="13.818" ry="13.815"/>
+    <filter id="rewards-w" width="237.5%" height="237.5%" x="-68.8%" y="-50.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="rewards-z" width="81.73" height="30.862" rx="4.233"/>
+    <filter id="rewards-y" width="146.5%" height="223.1%" x="-23.2%" y="-45.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="rewards-B" width="71.971" height="40.212" rx="4.233"/>
+    <filter id="rewards-A" width="152.8%" height="194.5%" x="-26.4%" y="-34.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <circle id="rewards-D" cx="19.5" cy="19.5" r="19.5"/>
+    <filter id="rewards-C" width="197.4%" height="197.4%" x="-48.7%" y="-35.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-7 6)">
+    <g transform="translate(7.409 8.931)">
+      <mask id="rewards-c" fill="#fff">
+        <use xlink:href="#rewards-a"/>
+      </mask>
+      <use fill="url(#rewards-b)" fill-rule="nonzero" xlink:href="#rewards-a"/>
+      <g fill-rule="nonzero" mask="url(#rewards-c)">
+        <use fill="#000" filter="url(#rewards-d)" xlink:href="#rewards-e"/>
+        <use fill="url(#rewards-f)" xlink:href="#rewards-e"/>
+      </g>
+      <use fill="#000" fill-rule="nonzero" filter="url(#rewards-g)" xlink:href="#rewards-h"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#rewards-i)" xlink:href="#rewards-j"/>
+      <use fill="url(#rewards-k)" xlink:href="#rewards-j"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#rewards-l)" xlink:href="#rewards-m"/>
+      <use fill="#FFF" xlink:href="#rewards-m"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#rewards-n)" xlink:href="#rewards-o"/>
+      <use fill="#FFF" xlink:href="#rewards-o"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#rewards-p)" xlink:href="#rewards-q"/>
+      <use fill="url(#rewards-k)" xlink:href="#rewards-q"/>
+    </g>
+    <g transform="translate(73.62 25.513)">
+      <use fill="#000" filter="url(#rewards-r)" xlink:href="#rewards-s"/>
+      <use fill="#FFF" xlink:href="#rewards-s"/>
+      <g transform="translate(26.004 20.682)">
+        <path fill="#FF4724" d="M0.167581641,86.0046413 L29.3643317,69.0161036 L49.4927053,34.0765047 L49.4927053,0.389168452 C48.961802,0.389168452 48.4308986,0.73980197 48.028077,1.43714034 L24.1853355,42.8246637 L0.344549418,84.212187 C-0.05729454,84.9105076 -0.0954257184,85.5440051 0.167581641,86.0046413"/>
+        <path fill="#9E1F63" d="M49.4929986,0.389168452 L49.4929986,34.0765047 L69.6203945,69.0161036 L98.8171446,86.0046413 C99.0811297,85.5440051 99.0429985,84.9105076 98.6411545,84.212187 L74.7993907,42.8246637 L50.9566492,1.43714034 C50.5538276,0.738819804 50.0229242,0.389168452 49.4929986,0.389168452"/>
+        <path fill="#662D91" d="M98.8173401,86.0046413 L69.6205901,69.0161036 L29.3648205,69.0161036 L0.168070502,86.0046413 C0.431077861,86.4672418 0.997179203,86.7540345 1.80282256,86.7540345 L97.1816103,86.7540345 C97.9872537,86.7540345 98.553355,86.4672418 98.8173401,86.0046413"/>
+        <polygon fill="#FFF" points="29.365 69.016 69.62 69.016 49.493 34.077"/>
+      </g>
+    </g>
+    <g fill-rule="nonzero" filter="url(#rewards-t)" transform="translate(75 148)">
+      <use fill="#000" filter="url(#rewards-u)" xlink:href="#rewards-v"/>
+      <use fill="url(#rewards-f)" xlink:href="#rewards-v"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#rewards-w)" xlink:href="#rewards-x"/>
+      <use fill="url(#rewards-f)" xlink:href="#rewards-x"/>
+    </g>
+    <g fill-rule="nonzero" transform="translate(25.285 43.852)">
+      <use fill="#000" filter="url(#rewards-y)" xlink:href="#rewards-z"/>
+      <use fill="url(#rewards-k)" xlink:href="#rewards-z"/>
+      <ellipse cx="12.288" cy="11.111" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.058" rx="2.646" ry="2.646"/>
+      <ellipse cx="12.646" cy="20.646" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.058" rx="2.646" ry="2.646"/>
+      <path stroke="#FFF" stroke-linecap="square" stroke-linejoin="round" stroke-width="2.058" d="M23.9622178 10.5820106L71.0291971 10.5820106M23.5607579 20.0582011L70.6277372 20.0582011"/>
+    </g>
+    <g fill-rule="nonzero" transform="translate(215 82)">
+      <use fill="#000" filter="url(#rewards-A)" xlink:href="#rewards-B"/>
+      <use fill="url(#rewards-f)" xlink:href="#rewards-B"/>
+      <path stroke="#FFF" stroke-linecap="square" stroke-linejoin="round" stroke-width="2.116" d="M12.2280162 9.52380952L61.3868613 9.52380952M12.1733888 19.047619L42.7993776 19.047619M12.1695031 29.6296296L50.6505705 29.6296296"/>
+    </g>
+    <g fill-rule="nonzero" transform="translate(199 3)">
+      <use fill="#000" filter="url(#rewards-C)" xlink:href="#rewards-D"/>
+      <use fill="url(#rewards-k)" xlink:href="#rewards-D"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.8296226,9.59202171 L19.8296226,28.0876505"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.6738302,9.00914896 L19.6738302,28.6431906" transform="rotate(90 19.674 18.826)"/>
+    </g>
+  </g>
+</svg>

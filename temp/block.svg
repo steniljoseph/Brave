@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 264 198">
+  <defs>
+    <linearGradient id="shields-b" x1="5.709%" x2="101.747%" y1="-3.224%" y2="98.229%">
+      <stop offset="0%" stop-color="#F0F0F0"/>
+      <stop offset="100%" stop-color="#F2EDFD"/>
+    </linearGradient>
+    <path id="shields-a" d="M49.8494535,0.868431088 C81.1827892,9.24375906 104.764792,11.3983227 120.595461,7.33212193 C144.341465,1.23282082 182.217817,1.792257 201.279216,25.9932301 C220.340614,50.1942032 242.669837,82.0275815 218.329907,113.455535 C193.989977,144.883488 159.836085,156.365139 146.841554,135.305372 C133.847022,114.245605 98.7107149,127.600986 84.9565151,140.373073 C71.2023153,153.145161 -10.3658024,139.326128 1.9973498,100.497988 C14.360502,61.6698481 -7.01542771,51.6292973 2.54200457,23.5533197 C8.91362609,4.83600126 24.6827757,-2.72562828 49.8494535,0.868431088 Z"/>
+    <linearGradient id="shields-f" x1="35.192%" x2="146.327%" y1="0%" y2="222.965%">
+      <stop offset="0%" stop-color="#392DD1"/>
+      <stop offset="100%" stop-color="#FF4343"/>
+    </linearGradient>
+    <path id="shields-e" d="M194,86.842494 C194,82.5112042 197.516483,79 201.841142,79 L231.69643,79 C236.026973,79 239.537572,82.5195579 239.537572,86.842494 L239.537572,91.6312256 C239.537572,95.9625154 236.021089,99.4737196 231.69643,99.4737196 L201.841142,99.4737196 C197.510599,99.4737196 194,95.9541617 194,91.6312256 L194,86.842494 Z"/>
+    <filter id="shields-d" width="260.3%" height="456.6%" x="-80.2%" y="-129.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <path id="shields-h" d="M-26,52.842494 C-26,48.5112042 -22.4835171,45 -18.1588576,45 L11.6964299,45 C16.0269732,45 19.5375723,48.5195579 19.5375723,52.842494 L19.5375723,57.6312256 C19.5375723,61.9625154 16.0210894,65.4737196 11.6964299,65.4737196 L-18.1588576,65.4737196 C-22.489401,65.4737196 -26,61.9541617 -26,57.6312256 L-26,52.842494 Z"/>
+    <filter id="shields-g" width="260.3%" height="456.6%" x="-80.2%" y="-129.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <path id="shields-j" d="M49.8494535,0.868431088 C81.1827892,9.24375906 104.764792,11.3983227 120.595461,7.33212193 C144.341465,1.23282082 182.217817,1.792257 201.279216,25.9932301 C220.340614,50.1942032 242.669837,82.0275815 218.329907,113.455535 C193.989977,144.883488 159.836085,156.365139 146.841554,135.305372 C133.847022,114.245605 98.7107149,127.600986 84.9565151,140.373073 C71.2023153,153.145161 -10.3658024,139.326128 1.9973498,100.497988 C14.360502,61.6698481 -7.01542771,51.6292973 2.54200457,23.5533197 C8.91362609,4.83600126 24.6827757,-2.72562828 49.8494535,0.868431088 Z"/>
+    <filter id="shields-i" width="103.9%" height="106.2%" x="-2%" y="-3.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="4.5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.654177296   0 0 0 0 0.654177296   0 0 0 0 0.654177296  0 0 0 0.2 0"/>
+    </filter>
+    <filter id="shields-k" width="144.6%" height="134.4%" x="-22.3%" y="-17.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="shields-l" x1="0%" y1="50.706%" y2="50.706%">
+      <stop offset="0%" stop-color="#F50"/>
+      <stop offset="57.237%" stop-color="#FF2000"/>
+      <stop offset="100%" stop-color="#FF2000"/>
+    </linearGradient>
+    <path id="shields-m" d="M17.4568,10.4619688 C17.98405,10.8502813 18.09805,11.5936563 17.70855,12.1209063 L12.4598,19.2459063 C12.26505,19.5107188 11.97055,19.6829063 11.645175,19.7220938 C11.597675,19.7280313 11.550175,19.7304063 11.5038625,19.7304063 C11.2259875,19.7304063 10.9552375,19.6330313 10.7414875,19.4525313 L6.4902375,15.8900313 C5.9867375,15.4696563 5.921425,14.7203438 6.3418,14.2168438 C6.762175,13.7157188 7.5114875,13.6468438 8.0149875,14.0695938 L11.2972375,16.8198438 L15.796675,10.7137188 C16.186175,10.1864688 16.9283625,10.0724688 17.4568,10.4619688 Z M21.5002375,4.29290625 L20.3127375,4.29290625 C15.3252375,4.29290625 13.079675,1.34196875 12.9906125,1.22321875 C12.7388625,0.87171875 12.3303625,0.72090625 11.9278,0.75415625 C11.578675,0.76840625 11.2378625,0.91565625 11.013425,1.21728125 C10.9208,1.34196875 8.67405,4.29290625 3.6877375,4.29290625 L2.5002375,4.29290625 C1.190425,4.29290625 0.1252375,5.35809375 0.1252375,6.66790625 L0.1252375,10.2304063 C0.1252375,10.8859063 0.131175,11.9617813 0.1383,12.6172813 C0.1394875,12.7419688 0.4007375,25.0860313 11.5941125,29.1579688 C11.602425,29.1603438 11.6107375,29.1603438 11.6178625,29.1627188 C11.740175,29.2042813 11.868425,29.2304063 12.0002375,29.2304063 C12.13205,29.2304063 12.2591125,29.2042813 12.381425,29.1627188 C12.3897375,29.1603438 12.39805,29.1603438 12.4063625,29.1579688 C23.5997375,25.0860313 23.8609875,12.7419688 23.862175,12.6172813 C23.8693,11.9617813 23.8752375,10.8859063 23.8752375,10.2304063 L23.8752375,6.66790625 C23.8752375,5.35809375 22.81005,4.29290625 21.5002375,4.29290625 Z"/>
+    <ellipse id="shields-o" cx="69.467" cy="74.466" rx="8.467" ry="8.466"/>
+    <filter id="shields-n" width="324.4%" height="324.4%" x="-112.2%" y="-82.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <ellipse id="shields-q" cx="228.467" cy="78.466" rx="4.467" ry="4.466"/>
+    <filter id="shields-p" width="525.3%" height="525.5%" x="-212.7%" y="-156.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <ellipse id="shields-s" cx="45.467" cy="31.466" rx="13.467" ry="13.466"/>
+    <filter id="shields-r" width="241.1%" height="241.1%" x="-70.5%" y="-52%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="shields-t" x1="58.196%" x2="33.589%" y1="-6.64%" y2="102.323%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#F1F1F1"/>
+    </linearGradient>
+    <filter id="shields-u" width="324.4%" height="319%" x="-112.2%" y="-97.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="7" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <circle id="shields-w" cx="20.5" cy="21.048" r="20.5"/>
+    <filter id="shields-v" width="192.7%" height="192.7%" x="-46.3%" y="-34.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <circle id="shields-y" cx="16.5" cy="17.391" r="16.5"/>
+    <filter id="shields-x" width="215.2%" height="215.2%" x="-57.6%" y="-42.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941   0 0 0 0 0.180392   0 0 0 0 0.25098  0 0 0 0.2 0"/>
+    </filter>
+    <rect id="shields-A" width="30.358" height="20.474" x="222" y="136" rx="7.841"/>
+    <filter id="shields-z" width="231.8%" height="295.4%" x="-65.9%" y="-63.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="7" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.152941176   0 0 0 0 0.180392157   0 0 0 0 0.250980392  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 2)">
+    <g transform="translate(32 20)">
+      <mask id="shields-c" fill="#fff">
+        <use xlink:href="#shields-a"/>
+      </mask>
+      <use fill="url(#shields-b)" fill-rule="nonzero" xlink:href="#shields-a"/>
+      <g mask="url(#shields-c)">
+        <use fill="#000" filter="url(#shields-d)" xlink:href="#shields-e"/>
+        <use fill="url(#shields-f)" xlink:href="#shields-e"/>
+      </g>
+      <g mask="url(#shields-c)">
+        <use fill="#000" filter="url(#shields-g)" xlink:href="#shields-h"/>
+        <use fill="url(#shields-f)" xlink:href="#shields-h"/>
+      </g>
+      <use fill="#000" fill-rule="nonzero" filter="url(#shields-i)" xlink:href="#shields-j"/>
+    </g>
+    <g filter="url(#shields-k)" transform="translate(70)">
+      <path fill="url(#shields-f)" d="M94.7165712,7.36363636 L99.9281927,0.484265969 L105.139814,7.36363636 L129.528806,7.36363636 C134.494592,7.36363636 138.520157,11.3938226 138.520157,16.3632349 L138.520157,170.831122 C138.520157,175.801463 134.494517,179.830721 129.528806,179.830721 L9.25649417,179.830721 C4.29070774,179.830721 0.265142452,175.800535 0.265142452,170.831122 L0.265142452,16.3632349 C0.265142452,11.3928939 4.29078262,7.36363636 9.25649417,7.36363636 L94.7165712,7.36363636 Z"/>
+      <path fill="#FFF" d="M11.2791328,45.8159547 C11.2791328,43.1059687 13.471566,40.9090909 16.1805453,40.9090909 L122.604754,40.9090909 C125.31173,40.9090909 127.506167,43.1034779 127.506167,45.8159547 L127.506167,82.4693117 C127.506167,85.1792978 125.313734,87.3761755 122.604754,87.3761755 L16.1805453,87.3761755 C13.4735699,87.3761755 11.2791328,85.1817885 11.2791328,82.4693117 L11.2791328,45.8159547 Z"/>
+      <g fill-rule="nonzero" transform="translate(109.565 18)">
+        <rect width="14.718" height="3.273" y="4.091" fill="#FFF" rx="1.636"/>
+        <ellipse cx="15.126" cy="5.318" fill="url(#shields-l)" rx="5.315" ry="5.318"/>
+      </g>
+      <use fill="url(#shields-l)" transform="translate(26 49)" xlink:href="#shields-m"/>
+      <g fill-rule="nonzero" transform="translate(11.447 100.636)">
+        <g transform="translate(98.118)">
+          <rect width="14.718" height="3.273" y="3.273" fill="#FFF" rx="1.636"/>
+          <ellipse cx="15.126" cy="5.318" fill="url(#shields-l)" rx="5.315" ry="5.318"/>
+        </g>
+        <rect width="47.424" height="7.364" y="1.636" fill="#FFF" rx="1.636"/>
+      </g>
+      <g fill-rule="nonzero" transform="translate(11.447 144.818)">
+        <g transform="translate(98.118)">
+          <rect width="14.718" height="3.273" y="3.273" fill="#FFF" rx="1.636"/>
+          <ellipse cx="15.126" cy="5.318" fill="url(#shields-l)" rx="5.315" ry="5.318"/>
+        </g>
+        <rect width="47.424" height="7.364" y="1.636" fill="#FFF" rx="1.636"/>
+      </g>
+      <g fill-rule="nonzero" transform="translate(11.447 122.727)">
+        <g transform="translate(98.118)">
+          <rect width="14.718" height="3.273" y="3.273" fill="#FFF" rx="1.636"/>
+          <ellipse cx="15.126" cy="5.318" fill="url(#shields-l)" rx="5.315" ry="5.318"/>
+        </g>
+        <rect width="77.676" height="7.364" y="1.636" fill="#FFF" rx="1.636"/>
+      </g>
+      <rect width="47.424" height="7.364" x="13.082" y="18.818" fill="#FFF" fill-rule="nonzero" rx="1.636"/>
+      <rect width="49" height="7" fill="#EBEBEB" fill-rule="nonzero" rx="1.636" transform="translate(60 55)"/>
+      <rect width="55.306" height="3.455" x="59" y="69" fill="#EBEBEB" fill-rule="nonzero" rx="1.636"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#shields-n)" xlink:href="#shields-o"/>
+      <use fill="#FFF" xlink:href="#shields-o"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#shields-p)" xlink:href="#shields-q"/>
+      <use fill="#FFF" xlink:href="#shields-q"/>
+    </g>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#shields-r)" xlink:href="#shields-s"/>
+      <use fill="#FFF" xlink:href="#shields-s"/>
+    </g>
+    <ellipse cx="11.818" cy="76.815" fill="url(#shields-t)" fill-rule="nonzero" rx="11.818" ry="11.815"/>
+    <ellipse cx="20.318" cy="105.315" fill="url(#shields-t)" fill-rule="nonzero" rx="8.318" ry="8.315"/>
+    <g fill-rule="nonzero" filter="url(#shields-u)" transform="rotate(-45 193.056 46.025)">
+      <use fill="#000" filter="url(#shields-v)" xlink:href="#shields-w"/>
+      <use fill="url(#shields-l)" xlink:href="#shields-w"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21.0428732,12.4227272 L21.0428732,29.3790586"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.8535534,11.6941738 L20.8535534,29.6941738" transform="rotate(90 20.854 20.694)"/>
+    </g>
+    <g fill-rule="nonzero" transform="rotate(-45 158.017 -230.118)">
+      <use fill="#000" filter="url(#shields-x)" xlink:href="#shields-y"/>
+      <use fill="url(#shields-f)" xlink:href="#shields-y"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.3357664,11.3896464 L16.3357664,24.5779042"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.1464466,10.7444264 L16.1464466,24.7444264" transform="rotate(90 16.146 17.744)"/>
+    </g>
+    <use fill="#000" filter="url(#shields-z)" xlink:href="#shields-A"/>
+    <use fill="#FFF" xlink:href="#shields-A"/>
+  </g>
+</svg>
